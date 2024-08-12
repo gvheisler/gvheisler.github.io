@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "gvheisler"
 title_separator          : "-"
 name                     : &name "Gabriel Vinícius Heisler"
-description              : &description "personal description"
+description              : &description "Student"
 url                      : https://gvheisler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gvheisler/gvheisler.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Santa Maria, Rio Grande do Sul - Brazil"
   employer         : "Federal University of Santa Maria"
-  uri              : # URL
+  uri              : "https://www.ufsm.br/" # URL
   email            : "gvheisler@inf.ufsm.br" 
 
   # Academic websites
@@ -98,7 +98,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

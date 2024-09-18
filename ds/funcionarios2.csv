@@ -7,23 +7,23 @@ id;nome;idade;departamento;salario;data_admissao;cidade
 6;Marcelo Andrade;50.0;tecnologia;6800.9;2010-02-11;São Paulo
 7;Clara Alves;42.0;RH;;2013-07-23;Belo Horizonte
 8;Julia Santos;31.0;Vendas;4100.0;2020-09-30;Belo Horizonte
-9;Ricardo Gomes;39.0;Financeiro;4700.65;2016-11-14;RiodeJaneiro
+9;Ricardo Gomes;39.0;Financêiro;4700.65;2016-11-14;RiodeJaneiro
 10;Tatiana Souza;44.0;Tecnologia;7300.0;2010-05-08;SaoPaulo
 11;Gustavo Araújo;50.0;Vendas;4700.9;2008-12-22;Rio de janeiro
-12;Bianca Lima;26.0;Tecnologia;;2019-10-21;São Paulo
-13;Paula Mendes;33.0;Financeiro;5400.0;2017-03-14;Rio de janeiro
+12;Bianca Lima;26.0;Tecnoogia;;2019-10-21;São Paulo
+13;Paula Mendes;33.0; Financeiro;5400.0;2017-03-14;Rio de janeiro
 14;Rafael Diniz;27.0;RH;3900.3;2020-11-19;Belo Horizonte
 15;Luciana Pires;38.0;Vendas;4500.0;2015-02-17;Sao Paulo
 16;Thiago Martins;49.0;tecnologia;7200.0;2011-05-02;SãoPaulo
 17;Renata Oliveira;36.0;Financeiro;;2012-09-10;RiodeJaneiro
 18;Carlos Silva;41.0;Vendas;5100.5;2016-06-25;São Paulo
 19;Patrícia Castro;30.0;Tecnologia;6800.0;2019-02-07;Sao Paulo
-20;Fernanda Moreira;34.0;RH;4900.0;2013-08-15;Rio de Janeiro
+20;Fernanda Moreira;34.0;Rh;4900.0;2013-08-15;Rio de Janeiro
 21;Maria Silva;35.0;Vendas;4500.5;2015-06-22;Sao Paulo
 22;João Souza;28.0;Tecnologia;5300.0;2019-03-12;São paulo
 23;Pedro Lima;45.0;RH;5200.75;2011-08-05;Rio de Janeiro
 24;Ana Costa;;Financeiro;4800.0;2018-01-18;RiodeJaneiro
-25;Lucas Pereira;32.0;Vendas;;2017-05-27;Sao Paulo
+25;Lucas Pereira;32.0;Venas;;2017-05-27;Sao Paulo
 26;Marcelo Andrade;50.0;tecnologia;6800.9;2010-02-11;São Paulo
 27;Clara Alves;42.0;RH;;2013-07-23;Belo Horizonte
 28;Julia Santos;31.0;Vendas;4100.0;2020-09-30;Belo Horizonte
@@ -37,7 +37,7 @@ id;nome;idade;departamento;salario;data_admissao;cidade
 36;Thiago Martins;49.0;tecnologia;7200.0;2011-05-02;SãoPaulo
 37;Renata Oliveira;36.0;Financeiro;;2012-09-10;RiodeJaneiro
 38;Carlos Silva;41.0;Vendas;5100.5;2016-06-25;São Paulo
-39;Patrícia Castro;30.0;Tecnologia;6800.0;2019-02-07;Sao Paulo
+39;Patrícia Castro;30.0;Tecnologia ;6800.0;2019-02-07;Sao Paulo
 40;Fernanda Moreira;34.0;RH;4900.0;2013-08-15;Rio de Janeiro
 41;Maria Silva;35.0;Vendas;4500.5;2015-06-22;Sao Paulo
 42;João Souza;28.0;Tecnologia;5300.0;2019-03-12;São paulo
@@ -50,7 +50,7 @@ id;nome;idade;departamento;salario;data_admissao;cidade
 49;Ricardo Gomes;39.0;Financeiro;4700.65;2016-11-14;RiodeJaneiro
 50;Tatiana Souza;44.0;Tecnologia;7300.0;2010-05-08;SaoPaulo
 51;Gustavo Araújo;50.0;Vendas;4700.9;2008-12-22;Rio de janeiro
-52;Bianca Lima;26.0;Tecnologia;;2019-10-21;São Paulo
+52;Bianca Lima;26.0;Tecnologiaa;;2019-10-21;São Paulo
 53;Paula Mendes;33.0;Financeiro;5400.0;2017-03-14;Rio de janeiro
 54;Rafael Diniz;27.0;RH;3900.3;2020-11-19;Belo Horizonte
 55;Luciana Pires;38.0;Vendas;4500.0;2015-02-17;Sao Paulo

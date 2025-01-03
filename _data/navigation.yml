@@ -11,11 +11,11 @@ main:
   - title: "Projetos"
     url: /projects/    
         
-  - title: "Posts"
-    url: /archive/
+  #- title: "Posts"
+  #  url: /archive/
 
-  - title: "Materiais"
-      url: /util/
+  #- title: "Materiais"
+  #    url: /util/
     
   - title: "CV"
     url: /cv/

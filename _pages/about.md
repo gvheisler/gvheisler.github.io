@@ -10,6 +10,7 @@ redirect_from:
 Educação
 ======
 Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria
+
 Mestrando em Ciência da Computação pela Universidade [...]
 
 

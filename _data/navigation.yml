@@ -5,20 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publicações"
+    url: /publications/   
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projetos"
+    url: /projects/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Posts"
+    url: /archive/
+
+  - title: "Materiais"
+      url: /util/
     
   - title: "CV"
     url: /cv/

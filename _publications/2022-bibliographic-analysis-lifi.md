@@ -1,7 +1,7 @@
 ---
 title: "Bibliographic Analysis of the Capacity and Applicability of Li-Fi Networks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/bibliographic-analysis-lifi
 excerpt: 'Este artigo aborda a tecnologia Li-Fi'
 date: 2022-08-06

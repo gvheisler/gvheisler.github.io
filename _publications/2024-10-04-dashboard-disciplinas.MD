@@ -12,4 +12,4 @@ citation: ""
 ---
 
 
-Este artigo aborda a tecnologia de Li-Fi.
+Este artigo aborda a implementação de um dashboard dinâmico utilizando a ferramenta PowerBI. Este dashboard tem como objetivo auxiliar os alunos do curso de Ciência da Computação da Universidade Federal de Santa Maria a fazerem uma escolha mais informada a respeito das disciplinas que irão cursar.

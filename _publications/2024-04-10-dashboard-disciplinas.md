@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/dashboard-disciplinas/
 excerpt: "Apresenta o desenvolvimento de um dashboard interativo, utilizando Power BI, para monitorar o desempenho dos alunos nas disciplinas do curso de Ciência da Computação da UFSM. O objetivo é fornecer informações úteis, como taxas de aprovação e reprovação, auxiliando os estudantes na escolha estratégica das disciplinas e melhorando o planejamento acadêmico."
 date: 2024-04-10
-venue: "XIX Escola Regional de Banco de Dados (2024)"
+venue: "XIX Escola Regional de Banco de Dados (ERBD)"
 slidesurl: 
 paperurl: "http://gvheisler.github.io/files/papers/dashboard-disciplinas.pdf"
 citation:

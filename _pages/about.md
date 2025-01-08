@@ -11,6 +11,8 @@ Temas de pesquisa
 ======
 Ciência de dados
 
+Mineração de dados
+
 Retrieval-Augmented Generation
 
 

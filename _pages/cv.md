@@ -46,6 +46,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Mais informações sobre as publicações podem ser vistas na aba [Publicações](https://gvheisler.github.io/publications/). 
   
 Talks
 ======

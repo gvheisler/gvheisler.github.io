@@ -7,23 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Temas de pesquisa
-======
-Ciência de dados
+Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria (2024), atualmente mestrando no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal de [...].
 
-Mineração de dados
-
-Retrieval-Augmented Generation
+email: [gvheisler@gmail.com](mailto:gvheisler@gmail.com)
 
 
-Educação
-======
-Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria
+### Interesses de pesquisa
+* Ciência de dados:
+  * Business intelligence.
+  * Metodologias de extração de conhecimento.
+* Grandes modelos de linguagem:
+  * Retrieval-Augmented Generation (RAG)
+  * Graph RAG
+* Grafos de conhecimento.
+* Workflows de dados.
 
-Mestrando em Ciência da Computação pela Universidade [...]
+### Educação
+* Mestrado em andamento em Ciência da Computação, pela Universidade Federal de [...] (2025)
+* Bacharel em Ciência da Computação, Universidade Federal de Santa Maria (2020-2024)
 
-
-
-
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

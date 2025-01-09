@@ -9,39 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Mestrado em Ciência da Computação em andamento, Universidade Federal de [...]
+* Bacharelado em Ciência da Computação, Universidade Federal de Santa Maria, 2024
 
-Work experience
+Experiência
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Bolsista no Projeto [...]
+  * Atividades incluem a criação de [...]
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Programa de Educação Tutorial do curso de Ciência da Computação da Universidade Federal de Santa Maria (04/2021 - 01/2025):
+  * Participação em diversos projetos de ensino, pesquisa e extensão.
+  * Criação de cursos de linux, git, R, Google Drive, OBS Studio, Edição de vídeos, entre outros.
+  * Tutor: prof. Dr. Giovani Rubert Librelotto.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linguagens:
+  * Python
+  * R
+  * C
+* Ferramentas
+  * Apache Airflow.
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -49,18 +42,18 @@ Publications
 
 Mais informações sobre as publicações podem ser vistas na aba [Publicações](https://gvheisler.github.io/publications/). 
   
-Talks
+Palestras
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Disciplinas
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Serviço e liderança
 ======
 * Currently signed in to 43 different slack teams

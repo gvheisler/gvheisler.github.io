@@ -23,6 +23,11 @@ email: [gvheisler@gmail.com](mailto:gvheisler@gmail.com)
 * Workflows de dados.
 
 ### Educação
-* Mestrado em andamento em Ciência da Computação, pela Universidade Federal de [...] (2025)
+* Mestrado em andamento em Ciência da Computação, Universidade Federal de [...] (2025)
 * Bacharel em Ciência da Computação, Universidade Federal de Santa Maria (2020-2024)
 
+
+#### Projetos atuais
+
+
+#### Projetos passados

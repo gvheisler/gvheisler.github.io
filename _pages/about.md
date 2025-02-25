@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria (2024), atualmente mestrando no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal de [...].
+Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria (2024), atualmente mestrando no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal de Santa Catarina, sob orientação do prof. Dr. Renato Fileto.
 
 email: [gvheisler@gmail.com](mailto:gvheisler@gmail.com)
 
@@ -23,7 +23,7 @@ email: [gvheisler@gmail.com](mailto:gvheisler@gmail.com)
 * Workflows de dados.
 
 ### Educação
-* Mestrado em andamento em Ciência da Computação, Universidade Federal de [...] (2025)
+* Mestrado em andamento em Ciência da Computação, Universidade Federal de Santa Catarina (2025)
 * Bacharel em Ciência da Computação, Universidade Federal de Santa Maria (2020-2024)
 
 
